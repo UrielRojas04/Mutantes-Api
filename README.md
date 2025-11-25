@@ -63,13 +63,14 @@ La API estará disponible en: `http://localhost:8080`.
 **Ejemplo de Request (Body):**
 ```json
 {
-  "dna": [
+ "dna": [
     "ATGCGA",
     "CAGTGC",
     "TTATGT",
     "AGAAGG",
     "CCCCTA",
-    "TCACTG"
+    "TCACTG" 
+  ]
   ]
 }
 ```
