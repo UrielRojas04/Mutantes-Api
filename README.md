@@ -128,7 +128,10 @@ UI de Swagger en local:
 ## ☁️ Despliegue en Render
 
 🔗 **Base URL:**  
-https://mutantes-mercadolibre.onrender.com
+[https://mutantes-api-u36c.onrender.com](https://mutantes-api-u36c.onrender.com)
 
 🔗 **Swagger Online:**  
-https://mutantes-mercadolibre.onrender.com/swagger-ui.html
+[https://mutantes-api-u36c.onrender.com/swagger-ui.html](https://mutantes-api-u36c.onrender.com/swagger-ui.html)
+
+ **Consola H2:**  
+[https://mutantes-api-u36c.onrender.com/h2-console](https://mutantes-api-u36c.onrender.com/h2-console)
